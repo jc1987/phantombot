@@ -1,0 +1,8 @@
+{
+  "mailgun": {
+    "apikey": "key-balbal",
+    "domain": "domain.com"
+  },
+  "url": "http://cafemom.com",
+  "selector": "#navbar"
+}

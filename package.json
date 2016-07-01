@@ -1,0 +1,24 @@
+{
+  "name": "phantombot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "config": "^1.21.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "jade": "~1.11.0",
+    "mailgun-js": "^0.7.11",
+    "morgan": "~1.7.0",
+    "nightmare": "^2.5.2",
+    "phantom": "^2.1.9",
+    "serve-favicon": "~2.3.0",
+    "system": "^1.0.6",
+    "webpage": "^0.3.0",
+    "yql": "^1.0.2"
+  }
+}
