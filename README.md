@@ -1,5 +1,15 @@
 #POC
-##PhantomJS bot
+
+## What ?
+   PhantomJS bot
+
+## Installation
+    $ npm install
+    $ cp config/production.json.dist config/production.json
+
+## Usage
+    $ export NODE_ENV=production
+    $ node app.js
 
 
 ###Node, PHP, Python
@@ -25,10 +35,3 @@ ads should be there, something that client js can detect?
 
 ###What happens ?
 ads should be there, something that client js can detect?
-
-
-
-## how to use
-
-    export NODE_ENV=production
-    node app.js
